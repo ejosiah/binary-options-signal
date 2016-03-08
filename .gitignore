@@ -1,0 +1,30 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+build
+.idea
+*.iml
+cryptoText.iml
+execution_times.txt
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xmln
+hs_err_pid*
+.gradle
+trade_results*
+fast_execution_trader.*
+.DS_Store
+eurusd.txt
+gbpusd.txt
+logs-20160203
+market_data*
+market_data2*s
+archive
+report.*
+*HttpClient.java
+*Connect.java
